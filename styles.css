@@ -1,23 +1,15 @@
 .container {
   width: 70%;
-  margin: auto;
+  margin: 10% auto;
   text-align: center;
 }
 
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-
-
-}
 
 .bigButton{
-  margin: 0;
-  position: absolute;
-  top: 50%;
+  
   height:60px;
   width:120px;
+  
 }
 .dice {
   text-align: center;
